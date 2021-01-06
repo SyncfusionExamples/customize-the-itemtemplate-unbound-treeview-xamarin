@@ -1,2 +1,1 @@
-# customize-the-itemtemplate-unbound-treeview-xamarin
-How to customize the item template in an unbound Xamarin.Forms TreeView (SfTreeView)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12246/how-to-customize-the-item-template-in-an-unbound-xamarin-forms-treeview-sftreeview)**
